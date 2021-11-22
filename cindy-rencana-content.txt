@@ -3,7 +3,10 @@ RENCANA KONTEN CINDY
 - Javascript
   * ES6
   * Framwork Javascript
+   ^ Vue
 - Struktur data dasar
 - PHP Frameworks
+ ^ Laravel
 - Interview
 - Vlogs
+- Phyton
