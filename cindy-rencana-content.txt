@@ -1,6 +1,8 @@
 RENCANA KONTEN CINDY
 
 - Javascript
+  * ES6
+  * Framwork Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
